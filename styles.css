@@ -1,0 +1,49 @@
+
+.container{
+  display:flex;
+  background-color: lightpink;
+
+}
+
+  .rule-1 {
+  
+  width: 100%;
+  margin-left: 100px;
+  margin-bottom:100px;
+  margin-top: 100px;
+  
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url(fonts/roboto.bold.ttf);
+  font-style: normal;
+}
+
+  h1 {
+    color: pink;
+    text-align: center;
+    font-family: 'roboto';
+  }
+
+  thead {
+      color: MediumVioletRed;
+  }
+
+  table, td, th {
+    border: 10px 10px 10px 10px;
+    border: solid steelblue;
+    border-collapse: collapse;
+ 
+}
+
+  .rule-2 {
+  width: 100%;
+  margin-left: 100px;
+  margin-bottom:100px;
+  margin-top: 100px;
+  }
+
+
+ 
+
